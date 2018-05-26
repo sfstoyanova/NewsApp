@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="left_margin_padding">16dp</dimen>
+    <dimen name="right_margin_padding">16dp</dimen>
+    <dimen name="top_margin_padding">8dp</dimen>
+    <dimen name="bottom_margin_padding">8dp</dimen>
+    <dimen name="section_view_top_margin_padding">8dp</dimen>
+    <dimen name="title_view_text_size">18sp</dimen>
+    <dimen name="section_view_text_size">14sp</dimen>
+    <dimen name="date_time_view_text_size">12sp</dimen>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <!-- Add 'by' in author TextView when there is an author-!-->
+    <string name="by_author">by</string>
+    <!-- Used when there are no news to show-!-->
+    <string name="no_news">There are no news, please come back later.</string>
+    <!-- Used when there is no connectivity-!-->
+    <string name="no_connection">There is no internet connection.</string>
+
+    <!-- Used for preference settings-!-->
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_most_recent_value</string>
+
+    <!-- Label for order-by most recent option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_most_recent_label">Most Recent</string>
+    <string name="settings_order_by_most_recent_value" translatable="false">newest</string>
+
+    <!-- Label for order-by author option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_author_label">Author</string>
+    <string name="settings_order_by_author_value" translatable="false">webTitle</string>
+
+    <!-- Label for order-by category option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_category_label">Category</string>
+    <string name="settings_order_by_category_value" translatable="false">sectionName</string>
+</resources>
